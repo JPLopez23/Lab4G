@@ -1,0 +1,73 @@
+# Archivos compilados
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Ejecutables
+renderer
+renderer.exe
+SoftwareRenderer
+SoftwareRenderer.exe
+
+# Directorios de build
+build/
+Build/
+cmake-build-*/
+out/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# IDEs y editores
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Code::Blocks
+*.layout
+*.depend
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.backup
+
+vcpkg_installed/
+packages/
+
+# Archivos de depuración
+*.pdb
+*.ilk
+*.dSYM/
+
