@@ -3,7 +3,7 @@
 Laboratorio de renderizado 3D de una nave espacial.
 
 ## Nave
-https://github.com/JPLopez23/Lab4G/issues/1
+<img width="542" height="297" alt="Image" src="https://github.com/user-attachments/assets/7e48c6f2-320b-4291-9db0-ccf57611021d" />
 
 ## Controles
 
