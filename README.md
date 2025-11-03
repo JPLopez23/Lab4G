@@ -2,13 +2,6 @@
 
 Laboratorio de renderizado 3D de una nave espacial.
 
-## Instalación
-
-```bash
-git clone 
-cd nave
-cargo run --release
-```
 ## Nave
 https://github.com/JPLopez23/Lab4G/issues/1
 
